@@ -1,1 +1,2 @@
-main() {}
+/// Doxygen commentary
+int main() {}
