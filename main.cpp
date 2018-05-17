@@ -1,3 +1,9 @@
 /// Doxygen commentary
-int main() {}
+int main()
+{
+    const int natural
+    { 2 };
+
+
+}
 
